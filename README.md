@@ -1,7 +1,7 @@
 # Data and code for: Missed Calls to General Practices and Patients' Reported Ease of Phone Contact in England: National Observational Study
 
 Haedong Kim, Sihyun Oh, Hajae Jeon, Jaeyong Shin (Department of Preventive Medicine, Yonsei University College of Medicine, Seoul).
-Licence for the code: MIT (see `LICENSE`). Release v16.08, accompanying the manuscript submitted to the Journal of Medical Internet Research.
+Licence for the code: MIT (see `LICENSE`).
 
 The two programs reproduce the tables and figures of the paper, with the paper's numbering, from the data files in this repository alone, and write nothing else.
 
